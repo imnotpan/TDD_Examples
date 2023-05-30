@@ -1,4 +1,7 @@
 /*
+EJECUTAR
+++++++ npx jest
+
 >>> npm install express
 >>> npm install jest --save-dev
 >>> npm install supertest --save-dev
